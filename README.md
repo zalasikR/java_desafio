@@ -1,6 +1,6 @@
-Exercícios em Java – ADS - Faculdade UMFG 
+Exercícios simples  em Java – ADS - Faculdade UMFG 
 
-Este repositório reúne os exercícios que estou desenvolvendo durante o curso de Análise e Desenvolvimento de Sistemas (ADS).
+Este repositório reúne os exercícios e desafios que estou desenvolvendo durante o curso de Análise e Desenvolvimento de Sistemas (ADS).
 Aqui, documento minha evolução na disciplina de Programação I utilizando a linguagem Java no IntelliJ IDEA. 🚀
 
 🎯 Objetivo
